@@ -1,4 +1,4 @@
 ---
 name: Victoria Little 
-image_path: https://unsplash.it/600/800?image=1062
+image_path: /images/stinker.jpg
 ---
