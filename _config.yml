@@ -1,25 +1,25 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: ItsAmePhotography
+url: "https://ItsAmePhotography.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+snipcart_key: "MmQ5ZTA2MTgtOGQwYy00NmY4LWJiZWUtMDY0NjY1MTBkYzA3NjM2NjYwOTgzMDU3NzE0MzQ2"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Print Shop
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  name: Victoria Little
+  email: ItsAmePhotography@gmail.com
+  twitter:  # twitter username without the @ symbol
+  phone:
 social:
-  name: Fur Template
+  name: ItsAmePhotography
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+    - https://ItsAmePhotography.github.io
 
 # -----
 # Build
