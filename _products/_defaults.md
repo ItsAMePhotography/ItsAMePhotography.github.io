@@ -1,6 +1,6 @@
 ---
 name:
-garment_type: top
+garment_type: print
 price:
 sku:
 description:
@@ -12,6 +12,5 @@ sizes:
   - 24x36
 styles:
   - name:
-    color:
     image:
 ---
