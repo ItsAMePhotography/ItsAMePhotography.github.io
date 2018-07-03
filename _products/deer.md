@@ -1,8 +1,7 @@
 ---
 name: Generic Print
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
+  Fun Print Stuff, this is gunna change every time.
 
 
   Glossy, Professional level print
