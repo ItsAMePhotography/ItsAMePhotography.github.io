@@ -5,8 +5,8 @@ description_markdown: >-
   this majestic beast and feel all your problems float away.
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
-garment_type:
+  Smooth professional quality glossy print 
+garment_type:print
 price: '5.00'
 sku: Deer
 stock:
