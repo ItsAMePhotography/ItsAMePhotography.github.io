@@ -1,7 +1,7 @@
 ---
 name: Generic Print
 description_markdown: >-
-  Fun Print Stuff, this is gunna change every time.
+  Fun Print Stuff, this is gunna change every time. 
 
 
   Glossy, Professional level print
