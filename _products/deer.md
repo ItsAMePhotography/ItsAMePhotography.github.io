@@ -15,7 +15,7 @@ sizes:
   - 11x14
   - 16x20
 styles:
-  - name: Black
+  - name: 
     color: '#000000'
     image: /images/products/deer/20130810_111710.jpg
 ---
