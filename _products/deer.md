@@ -6,7 +6,7 @@ description_markdown: >-
 
 
   Smooth professional quality glossy print 
-garment_type:print
+garment_type:top
 price: '5.00'
 sku: Deer
 stock:
