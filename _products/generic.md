@@ -6,7 +6,7 @@ description_markdown: |-
   Glossy, Professional level print
 garment_type: top
 price: '5.00'
-sku: Deer
+sku: MacroNature
 stock:
 sizes:
   - 5x7
