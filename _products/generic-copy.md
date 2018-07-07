@@ -4,7 +4,7 @@ description_markdown: |-
   &nbsp;
 
   Glossy, Professional level print
-garment_type: top
+garment_type: Print
 price: '5.00'
 sku: MacroNature
 stock:
