@@ -16,5 +16,5 @@ sizes:
 styles:
   - name:
     color: '#000000'
-    image: /images/products/deer/20130810_111710.jpg
+    image: /images/products/macronature/distantleaf.jpg
 ---
