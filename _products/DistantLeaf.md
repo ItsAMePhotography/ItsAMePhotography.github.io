@@ -16,5 +16,5 @@ sizes:
 styles:
   - name:
     color: '#000000'
-    image: /images/products/macronature/distantleaf.jpg
+    image: /images/products/Macronature/DistantLeaf.JPG
 ---
