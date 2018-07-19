@@ -4,7 +4,7 @@ description_markdown: |-
   Fun Print Stuff, this is gunna change every time.
 
   Glossy, Professional level print
-garment_type: top
+garment_type:
 price: '5.00'
 sku: Macronature
 stock:
