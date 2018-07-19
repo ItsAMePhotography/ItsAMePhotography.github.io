@@ -6,7 +6,7 @@ description_markdown: |-
   Glossy, Professional level print
 garment_type: top
 price: '5.00'
-sku: MacroNature
+sku: Macronature
 stock:
 sizes:
   - '5x7[+5.00]'
